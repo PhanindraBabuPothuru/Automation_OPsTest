@@ -76,11 +76,11 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1293,466.82399999999996" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1293,313.224" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="i">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">12</Literal>
+          <Literal x:TypeArguments="x:String">13</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
