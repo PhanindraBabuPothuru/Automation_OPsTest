@@ -80,7 +80,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="i">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">10</Literal>
+          <Literal x:TypeArguments="x:String">12</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
